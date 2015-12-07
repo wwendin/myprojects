@@ -1,2 +1,2 @@
 # myprojects
-Public stuff
+Public projects
